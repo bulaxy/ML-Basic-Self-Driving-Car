@@ -2,7 +2,7 @@ After Looking at Tetris a bit, I decided to take a step back, to try and impleme
 
 Followed Along This [Youtube](https://www.youtube.com/watch?v=Rs_rAxEsAvI) Tutorial for this basic self-driving car JS Course. 
 
-Did not do a lot of changes to it.
+Did not do a lot of changes to it. While it is possible (and  it is preferable) to have a more condensed constant files, I will not be adding too much feature into this directly since my plan is to make an ML on other games. This is just a learning course.
 
 Note
 
